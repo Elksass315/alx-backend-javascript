@@ -6,7 +6,6 @@ function getCurrentYear() {
 export default function getBudgetForCurrentYear(income, gdp, capita) {
   const currentYear = getCurrentYear();
 
-  // Use computed property names directly in the object literal
   return {
     [`income-${currentYear}`]: income,
     [`gdp-${currentYear}`]: gdp,
