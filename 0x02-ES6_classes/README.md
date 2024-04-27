@@ -1,0 +1,3 @@
+0x02. ES6 classes
+
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/817248fb77fb5c2cef3f.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240427%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240427T002209Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=41d0b46f771d09f9afa30276c155b93d2a1621d549fcefb9921b143cf04be40c" alt="" loading="lazy" style="">
